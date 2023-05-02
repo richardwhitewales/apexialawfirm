@@ -31,7 +31,7 @@ export default function Practices() {
                                     We pride ourselves on our meticulous attention to detail and our ability to craft effective
                                     legal strategies that are tailored to the unique circumstances of each case. Our litigators
                                     are adept at handling all aspects of civil litigation, from pre-trial discovery to settlement
-                                    negotiations to trial and appeal. We work tirelessly to protect our clients' rights and
+                                    negotiations to trial and appeal. We work tirelessly to protect our clients&apos; rights and
                                     interests and to ensure that they receive the compensation and justice they deserve.
                                 </p>
                             </div>
@@ -41,10 +41,10 @@ export default function Practices() {
                                 <h3>Dispute Resolution</h3>
                                 <hr />
                                 <p>
-                                    Our law firm's Dispute Resolution ability is the best because we have a team
+                                    Our law firm&apos;s Dispute Resolution ability is the best because we have a team
                                     of highly skilled and experienced attorneys who are dedicated to finding the
-                                    most effective and efficient solutions to resolve our clients' disputes. We
-                                    understand that each client's situation is unique and we approach every case
+                                    most effective and efficient solutions to resolve our clients&apos; disputes. We
+                                    understand that each client&apos;s situation is unique and we approach every case
                                     with a customized strategy tailored to meet their specific needs.
                                 </p>
                             </div>

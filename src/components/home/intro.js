@@ -9,8 +9,8 @@ export default function Intro() {
                         <h1>How we deal with the law</h1>
 
                         <p className="mt-5">
-                            At our company, we understand that our clients' success is directly linked to our own success.
-                            That's why we prioritize their bottom line above everything else. We work closely with each
+                            At our company, we understand that our clients&apos; success is directly linked to our own success.
+                            That&apos;s why we prioritize their bottom line above everything else. We work closely with each
                             client to gain a deep understanding of their unique needs and preferences, and we are dedicated
                             to addressing their immediate concerns as quickly and effectively as possible.
                         </p>
@@ -21,9 +21,9 @@ export default function Intro() {
                         </p>
 
                         <p className="mt-2">
-                            Whether it's troubleshooting a technical issue, providing strategic guidance, or simply being a sounding
+                            Whether it&apos;s troubleshooting a technical issue, providing strategic guidance, or simply being a sounding
                             board for new ideas, we are committed to helping our clients achieve their goals. Our team is available
-                            24/7 to provide the support and guidance our clients need, whenever they need it. With our client's
+                            24/7 to provide the support and guidance our clients need, whenever they need it. With our client&apos;s
                             success as our top priority, we will continue to go above and beyond to exceed their expectations
                             and deliver exceptional value.
                         </p>
