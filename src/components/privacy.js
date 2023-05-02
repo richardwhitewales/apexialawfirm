@@ -34,7 +34,7 @@ export default function Privacy() {
                             <p>Our website may contain links to other websites. Please note that we are not responsible for the privacy practices of those other websites. We encourage you to review the privacy policies of those websites before providing any personal information.</p>
                         </div>
                         <div>
-                            <h2>Children's privacy</h2>
+                            <h2>Children&apos;s privacy</h2>
                             <p>Our website and services are not intended for children under the age of 13. We do not knowingly collect personal information from children under the age of 13. If we become aware that we have collected personal information from a child under the age of 13, we will take steps to delete that information as soon as possible.</p>
                             <p>If you are a parent or guardian and you believe that your child under the age of 13 has provided us with personal information, please contact us immediately so that we can take appropriate action.</p>
                         </div>

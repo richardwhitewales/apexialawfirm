@@ -13,7 +13,7 @@ export default function Terms() {
                             <p>You may use our website and services only for lawful purposes and in accordance with these Terms. You may not use our website and services:</p>
                             <ul>
                                 <li>In any way that violates any applicable federal, state, local, or international law or regulation.</li>
-                                <li>To engage in any conduct that restricts or inhibits anyone's use or enjoyment of the website and services, or which may harm Apexia Law Firm or users of the website and services.</li>
+                                <li>To engage in any conduct that restricts or inhibits anyone&apos;s use or enjoyment of the website and services, or which may harm Apexia Law Firm or users of the website and services.</li>
                                 <li>To impersonate or attempt to impersonate Apexia Law Firm, a Apexia Law Firm employee, another user, or any other person or entity.</li>
                                 <li>To interfere with the proper working of the website and services or to circumvent any security measures.</li>
                                 <li>To introduce any viruses, Trojan horses, worms, logic bombs, or other harmful materials.</li>
