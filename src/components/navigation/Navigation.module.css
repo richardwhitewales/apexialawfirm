@@ -1,0 +1,7 @@
+.breadcrumb {
+    padding: 8rem 0;
+    background: #74A6C2 url("/breadcrumb.png") no-repeat scroll 0 0 / 100%;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
