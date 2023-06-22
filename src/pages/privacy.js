@@ -33,11 +33,11 @@ export default function PrivacyPage() {
     const lBSchema = getLBSchema(
         pageName,
         {
-            streetAddress: "",
-            addressLocality: "",
-            addressRegion: "",
-            postalCode: "",
-            addressCountry: ""
+            streetAddress: "Wadsley Bridge, Sheffield S6 1QW, UK",
+            addressLocality: "Wadsley Bridge",
+            addressRegion: "Sheffield",
+            postalCode: "S6 1QW",
+            addressCountry: "UK"
         },
         "+00-000-000-0000",
         "info@apexialawfirm.com",
@@ -47,8 +47,8 @@ export default function PrivacyPage() {
         "NGN, USD, EURO",
         "Mo-Fr 09:00-17:00",
         {
-            latitude: "",
-            longitude: ""
+            latitude: "53.381129",
+            longitude: "-1.470085"
         }
     );
 

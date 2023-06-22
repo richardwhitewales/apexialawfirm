@@ -51,7 +51,7 @@ export default function Footer() {
 
                             <ul className="mt-3 list-unstyled">
                                 <li>
-                                    <FontAwesomeIcon icon={faLocation} /> 
+                                    <FontAwesomeIcon icon={faLocation} /> Wadsley Bridge, Sheffield S6 1QW, UK
                                 </li>
                                 <li>
                                     <FontAwesomeIcon icon={faEnvelope} /> info@apexialawfirm.com
