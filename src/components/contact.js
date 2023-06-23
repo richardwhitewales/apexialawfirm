@@ -26,7 +26,7 @@ export default function Contact() {
                                         <div className="d-flex flex-column mx-2">
                                             <h5>PHONE:</h5>
                                             <p>
-                                                +00 000 000 0000
+                                                +44 741 836 3302
                                             </p>
                                         </div>
                                     </div>

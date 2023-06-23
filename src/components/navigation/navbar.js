@@ -83,8 +83,8 @@ export default function Navbar() {
                     </ul>
 
                     <div className="d-flex">
-                        <Link className="btn btn-sm btn_secondary m-1" href="tel:+000000000000">
-                            <FontAwesomeIcon icon={faPhone} /> +00 (000) 000 0000
+                        <Link className="btn btn-sm btn_secondary m-1" href="tel:+447418363302">
+                            <FontAwesomeIcon icon={faPhone} /> +44 (741) 836 3302
                         </Link>
                     </div>
                 </div>

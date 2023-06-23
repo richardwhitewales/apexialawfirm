@@ -39,7 +39,7 @@ export default function ContactPage() {
             postalCode: "S6 1QW",
             addressCountry: "UK"
         },
-        "+00-000-000-0000",
+        "+44 741 836 3302",
         "info@apexialawfirm.com",
         baseURL,
         `${baseURL}/logo.png`,

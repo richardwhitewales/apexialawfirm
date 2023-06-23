@@ -57,7 +57,7 @@ export default function Footer() {
                                     <FontAwesomeIcon icon={faEnvelope} /> info@apexialawfirm.com
                                 </li>
                                 <li>
-                                    <FontAwesomeIcon icon={faPhone} /> +00 (000) 000 0000
+                                    <FontAwesomeIcon icon={faPhone} /> +44 (741) 836 3302
                                 </li>
                             </ul>
                         </div>
