@@ -12,7 +12,7 @@ export default function Team() {
                     <div className="row">
                         <div className="col-sm-3 text-center">
                             <div className="m-2">
-                                <img src="/team1.png" alt="images" className={`${styles.service_img} border`} />
+                                <img src="/team1.png" alt="images" className={`${styles.service_img} border`} style={{width: "200px", objectFit: "cover"}} />
                                 <div className="mt-3">
                                     <h5>Harry Brooks</h5>
                                     <p>
@@ -27,7 +27,7 @@ export default function Team() {
                         </div>
                         <div className="col-sm-3 text-center">
                             <div className="m-2">
-                                <img src="/team2.png" alt="images" className={`${styles.service_img} border`} />
+                                <img src="/team2.png" alt="images" className={`${styles.service_img} border`} style={{width: "200px", objectFit: "cover"}} />
                                 <div className="mt-3">
                                     <h5>Wayne Stones</h5>
                                     <p>
