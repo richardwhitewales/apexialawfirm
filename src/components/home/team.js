@@ -14,14 +14,14 @@ export default function Team() {
                             <div className="m-2">
                                 <img src="/team1.png" alt="images" className={`${styles.service_img} border`} />
                                 <div className="mt-3">
-                                    <h5>Elizabeth Taylor</h5>
+                                    <h5>Harry Brooks</h5>
                                     <p>
-                                        Elizabeth Taylor is a highly regarded barrister, who is recognised for his expertise
+                                        Harry Brooks is a highly regarded barrister, who is recognised for his expertise
                                         in private client, real estate, charities and business disputes. He also acts in
                                         professional negligence claims in those areas. He regularly appears in litigation
                                         in the High Court and Court of Appeal.
                                     </p>
-                                    <b>elizabeth@apexialawfirm.com</b>
+                                    <b>brooks@apexialawfirm.com</b>
                                 </div>
                             </div>
                         </div>
@@ -29,14 +29,14 @@ export default function Team() {
                             <div className="m-2">
                                 <img src="/team2.png" alt="images" className={`${styles.service_img} border`} />
                                 <div className="mt-3">
-                                    <h5>Francis Ramirez</h5>
+                                    <h5>Wayne Stones</h5>
                                     <p>
-                                        Francis Ramirez represents both claimants and defendants in contested probate claims and
+                                        Wayne Stones represents both claimants and defendants in contested probate claims and
                                         claims for family provision under the Inheritance (Provision for Family and Dependants)
-                                        Act 1975. Francis Ramirez regularly acts for teamal representatives and beneficiaries,
+                                        Act 1975. Wayne Stones regularly acts for teamal representatives and beneficiaries,
                                         including well-known charities.
                                     </p>
-                                    <b>francis@apexialawfirm.com</b>
+                                    <b>stones@apexialawfirm.com</b>
                                 </div>
                             </div>
                         </div>
