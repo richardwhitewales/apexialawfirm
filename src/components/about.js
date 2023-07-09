@@ -16,13 +16,13 @@ export default function About() {
 
                         <div className="col-sm-6 primary">
                             <div className="m-2">
-                                <h5 className="secondary">Apexia Law Firm</h5>
+                                <h5 className="secondary">Apexia Law Firm LLC</h5>
                                 <p>
                                     What matters in today&lsquo;s business environment are fast turnaround times and
-                                    cost-effective solutions. Apexia Law Firm is one of the top law firms,
+                                    cost-effective solutions. Apexia Law Firm LLC is one of the top law firms,
                                     with over 50 practitioners, and many years of experience in high-level, complex
                                     commercial work. The firms focus is on what&lsquo;s best for the client and striving
-                                    for excellence, in both offering and service. Apexia Law Firm is committed
+                                    for excellence, in both offering and service. Apexia Law Firm LLC is committed
                                     to providing clients with cost-effective outcomes by ensuring work is done at the
                                     right level, and in the manner that best suits clients preferences and pricing structures.
                                 </p>
@@ -32,21 +32,21 @@ export default function About() {
                                     While many recognize the unique opportunities for trade, investment and growth that the world
                                     represents, predicting in-country and across regions risks is not easy, particularly given the
                                     rate of exponential change impacting multiple indicators, whether economic, political, technological
-                                    or social. Apexia Law Firm is an independent law firm with fully integrated offices around
+                                    or social. Apexia Law Firm LLC is an independent law firm with fully integrated offices around
                                     the world. The firm offers clients many years accumulated know-how and solid experience, whether
                                     doing business in-country or cross-continent, helping to minimize risk and leverage business
                                     opportunities across and within Europe.
                                 </p>
 
                                 <p>
-                                    Apexia Law Firm has lawyers qualified to practice English, French and Spanish, as well as
+                                    Apexia Law Firm LLC has lawyers qualified to practice English, French and Spanish, as well as
                                     practitioners who are fluent in African and other international languages, including Mandarin,
                                     Cantonese, and Portuguese. The firm also has dedicated China, UAE and India practice groups,
                                     which focus on the European strategies of these countries.
                                 </p>
 
                                 <p>
-                                    Apexia Law Firm also offers a unique possibility to integrate all aspects of structuring
+                                    Apexia Law Firm LLC also offers a unique possibility to integrate all aspects of structuring
                                     clients investments in relation to all commercial areas of law, tax, IP and fiduciary.
                                 </p>
                             </div>
@@ -58,7 +58,7 @@ export default function About() {
                             <div className="m-2">
                                 <h5 className="secondary">Customer Services</h5>
                                 <p>
-                                    The attorneys and staff at Apexia Law Firm, pride themselves on delivering the highest
+                                    The attorneys and staff at Apexia Law Firm LLC, pride themselves on delivering the highest
                                     level of customer service. We respond to your phone calls and emails on the same day. We keep
                                     you up-to-date on the progress of your case. We clearly explain the process so you understand
                                     what is happening in your case and make informed decisions. We advance case costs to relieve
@@ -77,7 +77,7 @@ export default function About() {
                                 </p>
 
                                 <p>
-                                    Apexia Law Firm also offers a unique possibility to integrate all aspects of structuring
+                                    Apexia Law Firm LLC also offers a unique possibility to integrate all aspects of structuring
                                     clients investments in relation to all commercial areas of law, tax, IP and fiduciary.
                                 </p>
                             </div>

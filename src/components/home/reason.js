@@ -10,7 +10,7 @@ export default function Reason() {
 
                 <div className="col-sm-6 text-center primary">
                     <p>
-                        At Apexia Law Firm, our success rate is over 99% and we have obtained
+                        At Apexia Law Firm LLC, our success rate is over 99% and we have obtained
                         over €365 million in verdicts and settlements
                         in the past 5 years.
                     </p>

@@ -6,7 +6,7 @@ export default function Privacy() {
                     <div className="col-sm-6">
                         <div>
                             <h2>Privacy Policy</h2>
-                            <p>Apexia Law Firm is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your personal information.</p>
+                            <p>Apexia Law Firm LLC is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your personal information.</p>
                         </div>
                         <div>
                             <h2>What information do we collect?</h2>

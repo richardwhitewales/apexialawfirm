@@ -62,7 +62,7 @@ export default function Team() {
                                 <div className="mt-3">
                                     <h5>Jacob Thompson</h5>
                                     <p>
-                                        As a member of the Apexia Law Firm team, Jacob specializes in providing legal counsel on matters
+                                        As a member of the Apexia Law Firm LLC team, Jacob specializes in providing legal counsel on matters
                                         relating to corporate law, contract negotiations, intellectual property, and regulatory compliance.
                                         He is known for his meticulous attention to detail, strategic thinking, and ability to navigate
                                         complex legal issues with ease.

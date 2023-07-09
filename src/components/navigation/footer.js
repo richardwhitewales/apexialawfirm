@@ -45,7 +45,7 @@ export default function Footer() {
                             />
                         </Link>
                         <div>
-                            Apexia Law Firm is a premier legal practice that provides expert counsel and representation
+                            Apexia Law Firm LLC is a premier legal practice that provides expert counsel and representation
                             in various areas of law. Our team of experienced attorneys is dedicated to achieving optimal
                             results for our clients through personalized and cost-effective solutions.
 
@@ -96,7 +96,7 @@ export default function Footer() {
                         </ul>
                     </div>
 
-                    <div className="col-12 text-muted text-center">© Copyright {new Date().getFullYear()}, Apexia Law Firm | All Rights Reserved.</div>
+                    <div className="col-12 text-muted text-center">© Copyright {new Date().getFullYear()}, Apexia Law Firm LLC | All Rights Reserved.</div>
                 </div>
             </div>
 

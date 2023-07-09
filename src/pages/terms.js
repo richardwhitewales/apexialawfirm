@@ -7,8 +7,8 @@ import Terms from '@/components/terms';
 
 export default function TeamPage() {
     // page default data
-    const pageName = "Apexia Law Firm - Terms";
-    const pageDesc = "Apexia Law Firm provide an expert legal counsel and representation for all your legal needs. Trust our experienced attorneys to provide personalized and cost-effective solutions. Contact us today.";
+    const pageName = "Apexia Law Firm LLC - Terms";
+    const pageDesc = "Apexia Law Firm LLC provide an expert legal counsel and representation for all your legal needs. Trust our experienced attorneys to provide personalized and cost-effective solutions. Contact us today.";
     const baseURL = "https://apexialawfirm.com/terms";
 
     // web site schema
@@ -61,7 +61,7 @@ export default function TeamPage() {
                 <meta name="keywords" content="law firm, england, lawyer" />
                 <meta name="theme-color" content="#0D2329" />
                 <link rel="icon" type="image/png" href="/favicon_2.png" />
-                <meta name="author" content="Apexia Law Firm" />
+                <meta name="author" content="Apexia Law Firm LLC" />
                 <title>{pageName}</title>
 
                 <meta property="og:title" content={pageName} />
